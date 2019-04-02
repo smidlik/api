@@ -1,0 +1,10 @@
+insert into UZIVATEL (ID_UZIVATEL, UZIVATELSKE_JMENO, JMENO, PRIJMENI, TELEFON, EMAIL, HESLO) values (1, 'aughelli0', 'Anitra', 'Ughelli', '+86-143-863-7062', 'aughelli0@walmart.com', 'H47EPibR');
+insert into UZIVATEL (ID_UZIVATEL, UZIVATELSKE_JMENO, JMENO, PRIJMENI, TELEFON, EMAIL, HESLO) values (2, 'ldhooghe1', 'Lodovico', 'D''Hooghe', '+256-229-553-1670', 'ldhooghe1@vistaprint.com', 'PV5a8MVvea');
+insert into UZIVATEL (ID_UZIVATEL, UZIVATELSKE_JMENO, JMENO, PRIJMENI, TELEFON, EMAIL, HESLO) values (3, 'grohlfs2', 'Goldi', 'Rohlfs', '+54-600-361-8736', 'grohlfs2@mail.ru', '6z5DZN');
+insert into UZIVATEL (ID_UZIVATEL, UZIVATELSKE_JMENO, JMENO, PRIJMENI, TELEFON, EMAIL, HESLO) values (4, 'gfishbourn3', 'Gale', 'Fishbourn', '+66-214-325-4422', 'gfishbourn3@alexa.com', '4ud6JAJiFhz');
+insert into UZIVATEL (ID_UZIVATEL, UZIVATELSKE_JMENO, JMENO, PRIJMENI, TELEFON, EMAIL, HESLO) values (5, 'ahawtry4', 'Aaron', 'Hawtry', '+86-932-647-4283', 'ahawtry4@symantec.com', 'LzT8Ewc4IpvH');
+insert into UZIVATEL (ID_UZIVATEL, UZIVATELSKE_JMENO, JMENO, PRIJMENI, TELEFON, EMAIL, HESLO) values (6, 'fruprechter5', 'Fee', 'Ruprechter', '+62-318-696-6732', 'fruprechter5@newyorker.com', 'nwcCqfs');
+insert into UZIVATEL (ID_UZIVATEL, UZIVATELSKE_JMENO, JMENO, PRIJMENI, TELEFON, EMAIL, HESLO) values (7, 'lwythill6', 'Lay', 'Wythill', '+420-115-834-2168', 'lwythill6@unicef.org', 'yo45nxc');
+insert into UZIVATEL (ID_UZIVATEL, UZIVATELSKE_JMENO, JMENO, PRIJMENI, TELEFON, EMAIL, HESLO) values (8, 'odowry7', 'Omero', 'Dowry', '+55-396-652-4873', 'odowry7@oracle.com', '1Idia6SG');
+insert into UZIVATEL (ID_UZIVATEL, UZIVATELSKE_JMENO, JMENO, PRIJMENI, TELEFON, EMAIL, HESLO) values (9, 'xfitzpatrick8', 'Xaviera', 'Fitzpatrick', '+84-651-502-5873', 'xfitzpatrick8@youtu.be', '0HCQUn');
+insert into UZIVATEL (ID_UZIVATEL, UZIVATELSKE_JMENO, JMENO, PRIJMENI, TELEFON, EMAIL, HESLO) values (10, 'dfrostdick9', 'Dunstan', 'Frostdick', '+62-910-220-8187', 'dfrostdick9@mtv.com', 'wFdv1ita');
